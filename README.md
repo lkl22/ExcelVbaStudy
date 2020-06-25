@@ -26,7 +26,7 @@
 
 * [Excel VBA中的一些基本概念](./docs/basic/basicConcepts.md)（熟悉 VBA 中的基本概念）
 * [启用 Excel 开发工具教程](./docs/basic/enableExcelDevTool.md)（准备 VBA 开发工具）
-* Excel VBA 设置宏安全性（正确设置 VBA 开发安全选项）
+* [Excel VBA 设置宏安全性](./docs/basic/setMacroSecurity.md)（正确设置 VBA 开发安全选项）
 * Excel 保存包含 VBA 代码的工作簿（使用指定类型保存含 VBA 代码的工作簿）
 * 使用 VBA 编辑器进行 Excel VBA 开发（熟悉 VBA 开发工具的用法）
 * 编写你的第一个 VBA 宏（基础实战练习）
