@@ -36,7 +36,7 @@
 ## VBA 变量、类型、运算符
 
 * [VBA 变量基础教程](./docs/variablesTypesOperators/variables.md)（VBA 核心概念）
-* [VBA 常量基础教程]()（基础概念）
+* [VBA 常量基础教程](./docs/variablesTypesOperators/constant.md)（基础概念）
 * [VBA 运算符基础教程]()（加减乘除+高级操作）
 * [VBA 数据类型基础教程]()（程序更高效、更精准）
 
