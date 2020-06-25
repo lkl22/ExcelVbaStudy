@@ -31,7 +31,7 @@
 * [使用 VBA 编辑器进行 Excel VBA 开发](./docs/basic/excelVBADevelopmentUsingVBAEditor.md)（熟悉 VBA 开发工具的用法）
 * [编写你的第一个 VBA 宏](./docs/basic/writeFirstVBAMacro.md)（基础实战练习）
 * [Excel 录制宏并查看宏代码](./docs/basic/recordMacroAndViewMacroCode.md)（写 VBA 代码的技巧）
-* Excel 中如何运行 VBA 代码？（从工作表运行 VBA 代码）
+* [Excel 中如何运行 VBA 代码？](./docs/basic/runVBACodeInExcel.md)（从工作表运行 VBA 代码）
 
 ## 参考文献
 
