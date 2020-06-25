@@ -46,7 +46,7 @@
 * [VBA 变量的声明和赋值](./docs/programStructure/variableDeclarationAndAssignment.md)（使程序动起来）
 * [VBA 程序顺序结构](./docs/programStructure/sequenceStructure.md)（VBA 程序默认执行顺序）
 * [VBA 程序选择结构](./docs/programStructure/selectStructure.md)（选择性的执行 VBA 代码）
-* [VBA 程序循环结构]()（重复执行一段代码）
+* [VBA 程序循环结构](./docs/programStructure/cyclicStructure.md)（重复执行一段代码）
 * [VBA With 结构]()（简化程序书写）
 * [VBA GoTo 结构]()（程序之间跳转执行）
 * [VBA 注释教程和实例]()（使程序更容易阅读和理解）
