@@ -33,6 +33,13 @@
 * [Excel 录制宏并查看宏代码](./docs/basic/recordMacroAndViewMacroCode.md)（写 VBA 代码的技巧）
 * [Excel 中如何运行 VBA 代码？](./docs/basic/runVBACodeInExcel.md)（从工作表运行 VBA 代码）
 
+## VBA 变量、类型、运算符
+
+* [VBA 变量基础教程](./docs/variablesTypesOperators/variables.md)（VBA 核心概念）
+* [VBA 常量基础教程]()（基础概念）
+* [VBA 运算符基础教程]()（加减乘除+高级操作）
+* [VBA 数据类型基础教程]()（程序更高效、更精准）
+
 ## 参考文献
 
 [EXCEL VBA 入门到精通详细教程](https://www.lanrenexcel.com/excel-vba-tutorial/)
