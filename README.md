@@ -41,6 +41,7 @@
 * [VBA 数据类型基础教程](./docs/variablesTypesOperators/types.md)（程序更高效、更精准）
 
 ## VBA 程序结构
+
 * [VBA 程序结构入门](./docs/programStructure/introduction.md)（认识 VBA 程序骨架）
 * [VBA 表达式和语句](docs/programStructure/expressionsAndStatements.md)（最基本的程序单元）
 * [VBA 变量的声明和赋值](./docs/programStructure/variableDeclarationAndAssignment.md)（使程序动起来）
@@ -50,6 +51,14 @@
 * [VBA With 结构](./docs/programStructure/withStructure.md)（简化程序书写）
 * [VBA GoTo 结构](./docs/programStructure/gotoStructure.md)（程序之间跳转执行）
 * [VBA 注释教程和实例](./docs/programStructure/annotateTutorialsAndExamples.md)（使程序更容易阅读和理解）
+
+## VBA 过程和函数 (Sub | Function)
+
+* [VBA 过程(Sub) 入门教程和实例](./docs/subAndFunc/subIntroductionTutorialAndExamples.md)（组织代码的容器）
+* [VBA 函数(Function)入门教程和实例]()（重复使用相同代码）
+* [VBA 函数与过程的 6 个不同点]()（正确使用过程和函数）
+* [VBA 过程和函数：传递参数教程和实例]()（正确定义和调用带参数的过程和函数）
+* [VBA 中 ByVal 和 ByRef 的基础用法和区别]()（学会正确传递参数）
 
 ## 参考文献
 
