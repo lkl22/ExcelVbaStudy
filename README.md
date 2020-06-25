@@ -57,7 +57,7 @@
 * [VBA 过程(Sub) 入门教程和实例](./docs/subAndFunc/subIntroductionTutorialAndExamples.md)（组织代码的容器）
 * [VBA 函数(Function)入门教程和实例](./docs/subAndFunc/funcIntroductionTutorialAndExamples.md)（重复使用相同代码）
 * [VBA 函数与过程的不同点](./docs/subAndFunc/diffBetweenFuncAndSub.md)（正确使用过程和函数）
-* [VBA 过程和函数：传递参数教程和实例]()（正确定义和调用带参数的过程和函数）
+* [VBA 过程和函数：传递参数教程和实例](./docs/subAndFunc/passingParamsTutorialsAndExamples.md)（正确定义和调用带参数的过程和函数）
 * [VBA 中 ByVal 和 ByRef 的基础用法和区别]()（学会正确传递参数）
 
 ## 参考文献
