@@ -9,11 +9,11 @@
 
 正如前文所述，VBA 可以运行在 Office 软件上，包括 Excel、Word、PPT、Outlook 等。VBA 语言在 Office 软件中是通用的，基本语法和用法都相同。但是每一个软件具有自己独有的对象，例如 Excel 有单元格对象，Word 有段落对象，PPT 有幻灯片对象。
 
-##### VBA 与宏有什么区别？
+#### **VBA 与宏有什么区别？**
 
 在学习 VBA 过程中，经常会出现一个说法，「宏」。简单的说，宏是一段可以运行的 VBA 代码片段，也可以说是一个简称，并没有特别的不同之处。所以学习 VBA 时，不用纠结于两者到底有什么区别，只需要记住一点，宏是使用 VBA 编写的一段代码片段。
 
-##### 学习 Excel VBA 有什么用处？
+#### **学习 Excel VBA 有什么用处？**
 
 前面我们说到，Excel中，VBA几乎可以实现任何功能，从简单的数据处理，到批量数据分析，再到与Office其他软件交互，甚至与操作系统交互实现复杂的功能，VBA几乎都可以胜任。以下是Excel VBA几个典型的用途。
 
@@ -25,7 +25,7 @@
 ## Excel VBA 基础
 
 * [Excel VBA中的一些基本概念](./docs/basic/basicConcepts.md)（熟悉 VBA 中的基本概念）
-* 启用 Excel 开发工具教程（准备 VBA 开发工具）
+* [启用 Excel 开发工具教程](./docs/basic/enableExcelDevTool.md)（准备 VBA 开发工具）
 * Excel VBA 设置宏安全性（正确设置 VBA 开发安全选项）
 * Excel 保存包含 VBA 代码的工作簿（使用指定类型保存含 VBA 代码的工作簿）
 * 使用 VBA 编辑器进行 Excel VBA 开发（熟悉 VBA 开发工具的用法）
