@@ -49,7 +49,7 @@
 * [VBA 程序循环结构](./docs/programStructure/cyclicStructure.md)（重复执行一段代码）
 * [VBA With 结构](./docs/programStructure/withStructure.md)（简化程序书写）
 * [VBA GoTo 结构](./docs/programStructure/gotoStructure.md)（程序之间跳转执行）
-* [VBA 注释教程和实例]()（使程序更容易阅读和理解）
+* [VBA 注释教程和实例](./docs/programStructure/annotateTutorialsAndExamples.md)（使程序更容易阅读和理解）
 
 ## 参考文献
 
