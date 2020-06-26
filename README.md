@@ -66,7 +66,8 @@
 
 ## Excel 实用小技巧
 
-* [下拉菜单]（单元格下拉菜单选择数据）
+* 下拉菜单（单元格下拉菜单选择数据）
+  * [Excel 定义动态名称教程](./docs/practicalTips/dropDownMenu/defineDynamicNameTutorial.md)
   * [Excel 制作一级下拉菜单教程](./docs/practicalTips/dropDownMenu/makeDropDownMenuTutorial.md)
 
 

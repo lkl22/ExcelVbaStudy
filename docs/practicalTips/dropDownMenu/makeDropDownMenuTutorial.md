@@ -39,7 +39,7 @@
 
 ![](./imgs/directCitation.png)
 
-### 使用名称
+### [使用名称](./defineDynamicNameTutorial.md)
 
 或者输入包含选项列表的名称，通用公式如下：
 ```
