@@ -62,6 +62,7 @@
 
 ## VBA 作用域Scope
 * [VBA 变量作用域](./docs/scope/variableScope.md)
+* [VBA 过程或函数作用域](./docs/scope/subOrFuncScope.md)
 
 ## 参考文献
 
