@@ -67,6 +67,7 @@
 
 ## VBA 使用实例
 
+* [VBA 选择EXCEL单元格启动宏](./docs/examples/selectExcelCellToStartMacro.md)
 * [VBA Json 数据处理教程](./docs/json/useJsonTutorial.md)
 
 ## Excel 实用小技巧
