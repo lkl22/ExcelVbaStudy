@@ -74,3 +74,7 @@
 ## 参考文献
 
 [EXCEL VBA 入门到精通详细教程](https://www.lanrenexcel.com/excel-vba-tutorial/)
+
+[Excel VBA 参考](https://docs.microsoft.com/zh-cn/office/vba/api/overview/excel)
+
+[How to Import JSON to Excel Using VBA](http://excelerator.solutions/2017/08/16/import-json-to-excel-using-vba/)
