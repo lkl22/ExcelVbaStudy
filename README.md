@@ -67,6 +67,7 @@
 
 ## VBA 使用实例
 
+* [VBA MsgBox显示消息弹框](./docs/examples/msgboxExamples.md)
 * [VBA 获取合并单元格的Value](./docs/examples/getValueOfMergedCell.md)
 * [VBA 选择EXCEL单元格启动宏](./docs/examples/selectExcelCellToStartMacro.md)
 * [VBA Json 数据处理教程](./docs/json/useJsonTutorial.md)
