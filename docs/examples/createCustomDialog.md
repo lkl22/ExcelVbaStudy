@@ -8,6 +8,7 @@
 * [5.控件和对话框事件](#控件和对话框事件)
 * [6.显示自定义对话框](#显示自定义对话框)
 * [7.代码运行时使用控件值](#代码运行时使用控件值)
+* [动态生成控件](#动态生成控件)
 
 ## 创建用户窗体
 
@@ -138,3 +139,45 @@ Sub LaunchSalesPersonForm()
     End If 
 End Sub
 ```
+
+## 动态生成控件
+
+即不再使用人工的方式来拖拉拽设置控件，而是在 VBA 代码中来根据条件来动态地添加控件到窗体中。
+
+```vba
+For Each order In orderArr
+    Set newCbk = form_combinedModel.Controls.Add("Forms.CheckBox.1")
+    With newCbk
+        .Left = 30
+        .Top = y
+        .Width = 80
+        .Height = 18
+        .Caption = order
+    End With
+    y = y + gap
+    panelH = panelH + gap
+Next order
+```
+这里的 `orderArr` 是一个数组，所以可以使用 `For Each` 来历遍它。重点在于第 2 行，这里的 `form_combinedModel` 是窗体的名字，通过它的 `.Controls.Add` 方法就能够添加新控件。这个方法的参数是固定的，需要添加什么类型的控件就使用对应的参数，示例代码中添加的是多选框，对应的是 `Forms.CheckBox.1`，这个参数可以在 [Add method (Microsoft Forms)](https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/add-method-microsoft-forms) 找到。
+
+此外要注意的是，这个新添加的控件是一个对象，所以需要在变量前面使用 `Set` 关键字。示例代码中接下来的 `With` 语句，是用于设置这个新的控件的属性，这里设置了它的位置（左距、上距）、宽度、高度、显示文本
+
+
+ProgID values for individual controls are:
+
+|Control	|ProgID value
+|---|---
+|CheckBox	|Forms.CheckBox.1
+|ComboBox	|Forms.ComboBox.1
+|CommandButton	|Forms.CommandButton.1
+|Frame	|Forms.Frame.1
+|Image	|Forms.Image.1
+|Label	|Forms.Label.1
+|ListBox	|Forms.ListBox.1
+|MultiPage	|Forms.MultiPage.1
+|OptionButton	|Forms.OptionButton.1
+|ScrollBar	|Forms.ScrollBar.1
+|SpinButton	|Forms.SpinButton.1
+|TabStrip	|Forms.TabStrip.1
+|TextBox	|Forms.TextBox.1
+|ToggleButton	|Forms.ToggleButton.1
