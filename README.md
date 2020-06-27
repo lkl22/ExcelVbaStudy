@@ -74,6 +74,7 @@
 
 ## Excel 实用小技巧
 
+* [冻结Excel的首行和首列、任意行以及任意列](./docs/practicalTips/freezeAnyExcelRowCol.md)
 * 下拉菜单（单元格下拉菜单选择数据）
   * [Excel 定义动态名称教程](./docs/practicalTips/dropDownMenu/defineDynamicNameTutorial.md)
   * [Excel 制作一级下拉菜单教程](./docs/practicalTips/dropDownMenu/makeDropDownMenuTutorial.md)
