@@ -41,6 +41,10 @@
 * [VBA 数据类型基础教程](./docs/variablesTypesOperators/types.md)（程序更高效、更精准）
 * [VBA 数组](./docs/variablesTypesOperators/array.md)（日常常用数据类型）
 
+## VBA 对象
+
+* [Dictionary 对象](./docs/vbaObject/dictionaryObject.md)
+
 ## VBA 程序结构
 
 * [VBA 程序结构入门](./docs/programStructure/introduction.md)（认识 VBA 程序骨架）
