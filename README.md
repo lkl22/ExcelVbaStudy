@@ -39,6 +39,7 @@
 * [VBA 常量基础教程](./docs/variablesTypesOperators/constant.md)（基础概念）
 * [VBA 运算符基础教程](./docs/variablesTypesOperators/operators.md)（加减乘除+高级操作）
 * [VBA 数据类型基础教程](./docs/variablesTypesOperators/types.md)（程序更高效、更精准）
+* [VBA 数组](./docs/variablesTypesOperators/array.md)（日常常用数据类型）
 
 ## VBA 程序结构
 
